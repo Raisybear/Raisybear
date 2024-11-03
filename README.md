@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a cool Website with phaser, pygame on Intellij
+- 🔭 I’m a student in the Kantonschule Baden and BBBaden
 - ⚡ Fun fact: I am a friend of Robin Sacher
 
