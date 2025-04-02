@@ -8,6 +8,20 @@ I'm a passionate developer who loves building cool stuff and solving problems th
 ## 🌐 My Website
 [![Personal Website](https://img.shields.io/badge/✨_My_Personal_Website-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://eliasspycher.com/)
 
+## 🚀 Pinned Projects
+
+<div align="center">
+  
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [ASCIISnakeGame](https://github.com/Raisybear/ASCIISnakeGame) | A classic Snake game implemented with ASCII graphics | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| [LA1304RPG](https://github.com/Raisybear/LA1304RPG) | Text-based RPG game project |  |
+| [Hauptprojekt_Kontenfuehrung](https://github.com/Raisybear/Hauptprojekt_Kontenfuehrung) | Account management system project | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| [PasswortGenerator](https://github.com/Raisybear/PasswortGenerator) | Secure password generator application | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| [WeatherGuesser](https://github.com/robinsacher/WeatherGuesser_LA_ILA3_0110) | Weather prediction game (collaboration) |  |
+
+</div>
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
