@@ -36,7 +36,6 @@ I'm a passionate developer specializing in C#/.NET and web technologies, scripti
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-EE4C2C?style=flat-square&logo=python&logoColor=white)
@@ -49,6 +48,7 @@ I'm a passionate developer specializing in C#/.NET and web technologies, scripti
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
