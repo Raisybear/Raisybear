@@ -6,7 +6,7 @@
 I'm a passionate developer specializing in C#/.NET and web technologies, scripting is also very fun. Welcome to my GitHub profile!
 
 ## 🌐 My Website
-[![Personal Website](https://img.shields.io/badge/✨_My_Personal_Website-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://eliasspycher.com/)
+[![Personal Website](https://img.shields.io/badge/✨_My_Personal_Website-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://raisybear.net/)
 
 ## 🚀 Featured Projects
 
