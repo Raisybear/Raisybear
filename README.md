@@ -1,20 +1,15 @@
-<!-- Animiertes GIF als dekorativer Header -->
-<div align="center">
-  <img src="petals.gif" alt="Animated Petals Background" width="100%" style="opacity: 0.7;">
-</div>
-
-<!-- Weitere schwebende Blütenblätter -->
+<!-- Animierter Header mit schwebenden Blütenblättern -->
 <div align="center">
   <img src="images/petal1.png" alt="Floating Petal" width="80" style="position: absolute; top: 50px; left: 20%; animation: float 6s ease-in-out infinite;">
   <img src="images/petal2.png" alt="Floating Petal" width="60" style="position: absolute; top: 80px; right: 15%; animation: float 4s ease-in-out infinite reverse;">
   <img src="images/petal3.png" alt="Floating Petal" width="70" style="position: absolute; top: 120px; left: 80%; animation: float 5s ease-in-out infinite;">
-  <img src="images/petal4.png" alt="Floating Petal" width="55" style="position: absolute; top: 30px; left: 5%; animation: float 7s ease-in-out infinite reverse;">
+  <img src="images/petal4.png" alt="Floating Petal" width="65" style="position: absolute; top: 30px; left: 5%; animation: float 7s ease-in-out infinite reverse;">
 </div>
 
 <!-- Hauptheader -->
 <h1 align="center">
   <img src="images/petal1.png" width="40"> 
-  💋 Hi there, I'm Raisybear! 
+  Hi there, I'm Raisybear! 
   <img src="images/petal2.png" width="40">
 </h1>
 
@@ -23,14 +18,14 @@
   <img src="images/petal3.png" width="25" style="transform: rotate(45deg);">
   <img src="https://img.shields.io/github/followers/Raisybear?style=social&color=ff69b4" alt="GitHub followers">
   <img src="https://komarev.com/ghpvc/?username=Raisybear&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views">
-  <img src="images/petal4.png" width="20" style="transform: rotate(-25deg);">
+  <img src="images/petal4.png" width="25" style="transform: rotate(-45deg);">
 </p>
 
 <!-- Beschreibung mit Rahmen aus Blütenblättern -->
 <p align="center">
   <img src="images/petal1.png" width="30" style="transform: rotate(90deg);">
   <em>I'm a passionate developer specializing in C#/.NET and web technologies, scripting is also very fun. Welcome to my GitHub profile!</em>
-  <img src="images/petal4.png" width="20" style="transform: rotate(-90deg);">
+  <img src="images/petal2.png" width="30" style="transform: rotate(-90deg);">
 </p>
 
 <!-- Dekorative Trennlinie -->
@@ -42,7 +37,7 @@
   <img src="images/petal3.png" width="20">
 </div>
 
-## My Website
+## 🌸 My Website
 <p align="center">
   <img src="images/petal1.png" width="35" style="transform: rotate(15deg);">
   <a href="https://raisybear.net/">
@@ -58,7 +53,7 @@
   <img src="images/petal1.png" width="25" style="transform: rotate(270deg);">
 </div>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <!-- Projekte-Tabelle bleibt gleich, aber mit dekorativen Rahmen -->
 <div align="center">
@@ -86,7 +81,7 @@
   <img src="images/petal2.png" width="30">
 </div>
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <div align="center">
   <img src="images/petal1.png" width="25" style="transform: rotate(30deg);">
@@ -152,22 +147,16 @@
 <img src="https://img.shields.io/badge/-MongoDB-ff69b4?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-<!-- Weitere Trennlinie mit GIF -->
-<div align="center">
-  <img src="petals.gif" alt="Animated Separator" width="60%" style="opacity: 0.6;">
-</div>
-
 <!-- Große dekorative Blütenblatt-Formation -->
 <div align="center" style="margin: 40px 0;">
   <img src="images/petal1.png" width="40" style="transform: rotate(0deg);">
   <img src="images/petal2.png" width="45" style="transform: rotate(90deg);">
   <img src="images/petal3.png" width="50" style="transform: rotate(180deg);">
-  <img src="images/petal4.png" width="35" style="transform: rotate(225deg);">
-  <img src="images/petal2.png" width="30" style="transform: rotate(195deg);">
-  <img src="images/petal3.png" width="25" style="transform: rotate(165deg);">>
+  <img src="images/petal4.png" width="45" style="transform: rotate(270deg);">
+  <img src="images/petal1.png" width="40" style="transform: rotate(45deg);">
 </div>
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <!-- Stats mit dekorativen Blütenblättern umrahmt -->
 <div align="center">
