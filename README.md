@@ -1,81 +1,64 @@
 <!-- Animierter Header mit schwebenden Blütenblättern -->
 <div align="center">
   <img src="images/petal1.png" alt="Floating Petal" width="80" style="position: absolute; top: 50px; left: 20%; animation: float 6s ease-in-out infinite, rotate 8s linear infinite;">
-  <img src="images/petal2.png" alt="Floating Petal" width="60" style="position: absolute; top: 80px; right: 15%; animation: float 4s ease-in-out infinite reverse, rotate 12s linear infinite reverse;">
-  <img src="images/petal3.png" alt="Floating Petal" width="70" style="position: absolute; top: 120px; left: 80%; animation: float 5s ease-in-out infinite, rotate 10s linear infinite;">
-  <img src="images/petal4.png" alt="Floating Petal" width="45" style="position: absolute; top: 30px; left: 5%; animation: float 7s ease-in-out infinite reverse, rotate 15s linear infinite reverse;">
+  <img src="images/petal2.png" alt="Floating Petal" width="60" style="position: absolute; top: 80px; right: 15%; animation: float 4s ease-in-out infinite reverse, rotate 12s linear infinite reverse, scaleX 10s ease-in-out infinite;">
+  <img src="images/petal3.png" alt="Floating Petal" width="70" style="position: absolute; top: 120px; left: 80%; animation: float 5s ease-in-out infinite, rotate 10s linear infinite, scaleX 8s ease-in-out infinite alternate;">
+  <img src="images/petal4.png" alt="Floating Petal" width="45" style="position: absolute; top: 30px; left: 5%; animation: float 7s ease-in-out infinite reverse, rotate 15s linear infinite reverse, scaleX 12s ease-in-out infinite alternate-reverse;">
 </div>
-
-<style>
-@keyframes rotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-@keyframes float {
-  0% { transform: translateY(0px) rotate(0deg); }
-  50% { transform: translateY(-20px) rotate(10deg); }
-  100% { transform: translateY(0px) rotate(0deg); }
-}
-@keyframes pulse {
-  0% { transform: scale(1) rotate(0deg); }
-  50% { transform: scale(1.1) rotate(5deg); }
-  100% { transform: scale(1) rotate(0deg); }
-}
-</style>
 
 <!-- Hauptheader -->
 <h1 align="center">
-  <img src="images/petal1.png" width="40" style="animation: pulse 3s ease-in-out infinite;"> 
+  <img src="images/petal1.png" width="40" style="animation: pulse 3s ease-in-out infinite, rotate 15s linear infinite;"> 
   Hi there, I'm Raisybear! 
-  <img src="images/petal2.png" width="40" style="animation: pulse 3s ease-in-out infinite 0.5s;">
+  <img src="images/petal2.png" width="40" style="animation: pulse 3s ease-in-out infinite 0.5s, rotate 12s linear infinite reverse, scaleX 5s ease-in-out infinite;">
 </h1>
 
 <!-- Badges mit dekorativen Elementen -->
 <p align="center">
-  <img src="images/petal3.png" width="25" style="transform: rotate(65deg); animation: pulse 4s ease-in-out infinite;">
+  <img src="images/petal3.png" width="25" style="transform: rotate(65deg); animation: pulse 4s ease-in-out infinite, rotate 20s linear infinite;">
   <img src="https://img.shields.io/github/followers/Raisybear?style=social&color=ff69b4" alt="GitHub followers">
   <img src="https://komarev.com/ghpvc/?username=Raisybear&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views">
-  <img src="images/petal4.png" width="20" style="transform: rotate(-75deg); animation: pulse 5s ease-in-out infinite 1s;">
+  <img src="images/petal4.png" width="20" style="transform: rotate(-75deg); animation: pulse 5s ease-in-out infinite 1s, rotate 18s linear infinite reverse, scaleX 7s ease-in-out infinite;">
 </p>
 
 <!-- Beschreibung mit Rahmen aus Blütenblättern -->
 <p align="center">
-  <img src="images/petal1.png" width="30" style="transform: rotate(110deg); animation: rotate 15s linear infinite reverse;">
+  <img src="images/petal1.png" width="30" style="transform: rotate(110deg); animation: rotate 15s linear infinite reverse, scaleX 6s ease-in-out infinite alternate;">
   <em>I'm a passionate developer specializing in C#/.NET and web technologies, scripting is also very fun. Welcome to my GitHub profile!</em>
-  <img src="images/petal2.png" width="30" style="transform: rotate(-100deg); animation: rotate 12s linear infinite;">
+  <img src="images/petal2.png" width="30" style="transform: rotate(-100deg); animation: rotate 12s linear infinite, scaleX 8s ease-in-out infinite alternate-reverse;">
 </p>
 
 <!-- Dekorative Trennlinie -->
 <div align="center">
-  <img src="images/petal3.png" width="20" style="animation: pulse 3s ease-in-out infinite;">
-  <img src="images/petal1.png" width="20" style="animation: pulse 4s ease-in-out infinite 0.3s;">
-  <img src="images/petal4.png" width="15" style="animation: pulse 5s ease-in-out infinite 0.6s;">
-  <img src="images/petal2.png" width="20" style="animation: pulse 3s ease-in-out infinite 0.9s;">
-  <img src="images/petal3.png" width="20" style="animation: pulse 4s ease-in-out infinite 1.2s;">
+  <img src="images/petal3.png" width="20" style="animation: pulse 3s ease-in-out infinite, rotate 25s linear infinite;">
+  <img src="images/petal1.png" width="20" style="animation: pulse 4s ease-in-out infinite 0.3s, rotate 20s linear infinite reverse;">
+  <img src="images/petal4.png" width="15" style="animation: pulse 5s ease-in-out infinite 0.6s, rotate 30s linear infinite, scaleX 9s ease-in-out infinite;">
+  <img src="images/petal2.png" width="20" style="animation: pulse 3s ease-in-out infinite 0.9s, rotate 22s linear infinite reverse, scaleX 7s ease-in-out infinite alternate;">
+  <img src="images/petal3.png" width="20" style="animation: pulse 4s ease-in-out infinite 1.2s, rotate 18s linear infinite;">
 </div>
 
 ## 🌸 My Website
 <p align="center">
-  <img src="images/petal1.png" width="35" style="transform: rotate(25deg); animation: rotate 20s linear infinite;">
+  <img src="images/petal1.png" width="35" style="transform: rotate(25deg); animation: rotate 20s linear infinite, scaleX 10s ease-in-out infinite alternate;">
   <a href="https://raisybear.net/">
     <img src="https://img.shields.io/badge/✨_My_Personal_Website-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Website">
   </a>
-  <img src="images/petal2.png" width="35" style="transform: rotate(-35deg); animation: rotate 18s linear infinite reverse;">
+  <img src="images/petal2.png" width="35" style="transform: rotate(-35deg); animation: rotate 18s linear infinite reverse, scaleX 8s ease-in-out infinite alternate-reverse;">
 </p>
 
 <!-- Weitere dekorative Elemente -->
 <div align="center">
-  <img src="images/petal4.png" width="20" style="transform: rotate(180deg); animation: pulse 6s ease-in-out infinite;">
-  <img src="images/petal3.png" width="25" style="animation: pulse 4s ease-in-out infinite 0.5s;">
-  <img src="images/petal1.png" width="25" style="transform: rotate(270deg); animation: pulse 5s ease-in-out infinite 1s;">
+  <img src="images/petal4.png" width="20" style="transform: rotate(180deg); animation: pulse 6s ease-in-out infinite, rotate 15s linear infinite;">
+  <img src="images/petal3.png" width="25" style="animation: pulse 4s ease-in-out infinite 0.5s, rotate 12s linear infinite reverse, scaleX 6s ease-in-out infinite;">
+  <img src="images/petal1.png" width="25" style="transform: rotate(270deg); animation: pulse 5s ease-in-out infinite 1s, rotate 20s linear infinite;">
 </div>
 
 ## 🚀 Featured Projects
 
 <!-- Projekte-Tabelle bleibt gleich, aber mit dekorativen Rahmen -->
 <div align="center">
-  <img src="images/petal2.png" width="30" style="transform: rotate(65deg); animation: rotate 15s linear infinite;">
-  <img src="images/petal4.png" width="25" style="transform: rotate(-55deg); animation: rotate 18s linear infinite reverse;">
+  <img src="images/petal2.png" width="30" style="transform: rotate(65deg); animation: rotate 15s linear infinite, scaleX 7s ease-in-out infinite alternate;">
+  <img src="images/petal4.png" width="25" style="transform: rotate(-55deg); animation: rotate 18s linear infinite reverse, scaleX 9s ease-in-out infinite alternate-reverse;">
 </div>
 
 <div align="center">
@@ -92,18 +75,18 @@
 
 <!-- Dekorative Blütenblatt-Trennlinie -->
 <div align="center">
-  <img src="images/petal3.png" width="30" style="transform: rotate(110deg); animation: rotate 20s linear infinite;">
-  <img src="images/petal1.png" width="30" style="transform: rotate(200deg); animation: rotate 18s linear infinite reverse;">
-  <img src="images/petal4.png" width="20" style="transform: rotate(290deg); animation: rotate 22s linear infinite;">
-  <img src="images/petal2.png" width="30" style="animation: rotate 16s linear infinite reverse;">
+  <img src="images/petal3.png" width="30" style="transform: rotate(110deg); animation: rotate 20s linear infinite, scaleX 8s ease-in-out infinite alternate;">
+  <img src="images/petal1.png" width="30" style="transform: rotate(200deg); animation: rotate 18s linear infinite reverse, scaleX 6s ease-in-out infinite alternate-reverse;">
+  <img src="images/petal4.png" width="20" style="transform: rotate(290deg); animation: rotate 22s linear infinite, scaleX 10s ease-in-out infinite;">
+  <img src="images/petal2.png" width="30" style="animation: rotate 16s linear infinite reverse, scaleX 7s ease-in-out infinite alternate;">
 </div>
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="images/petal1.png" width="25" style="transform: rotate(40deg); animation: pulse 5s ease-in-out infinite;">
+  <img src="images/petal1.png" width="25" style="transform: rotate(40deg); animation: pulse 5s ease-in-out infinite, rotate 25s linear infinite;">
   <strong>Programming Languages</strong>
-  <img src="images/petal2.png" width="25" style="transform: rotate(-50deg); animation: pulse 6s ease-in-out infinite 0.5s;">
+  <img src="images/petal2.png" width="25" style="transform: rotate(-50deg); animation: pulse 6s ease-in-out infinite 0.5s, rotate 22s linear infinite reverse, scaleX 9s ease-in-out infinite;">
 </div>
 
 <p align="center">
@@ -118,9 +101,9 @@
 </p>
 
 <div align="center">
-  <img src="images/petal3.png" width="25" style="transform: rotate(70deg); animation: pulse 4s ease-in-out infinite;">
+  <img src="images/petal3.png" width="25" style="transform: rotate(70deg); animation: pulse 4s ease-in-out infinite, rotate 18s linear infinite;">
   <strong>Frameworks & Libraries</strong>
-  <img src="images/petal4.png" width="20" style="transform: rotate(-80deg); animation: pulse 5s ease-in-out infinite 0.7s;">
+  <img src="images/petal4.png" width="20" style="transform: rotate(-80deg); animation: pulse 5s ease-in-out infinite 0.7s, rotate 20s linear infinite reverse, scaleX 8s ease-in-out infinite alternate;">
 </div>
 
 <p align="center">
@@ -132,9 +115,9 @@
 </p>
 
 <div align="center">
-  <img src="images/petal1.png" width="25" style="transform: rotate(130deg); animation: rotate 25s linear infinite;">
+  <img src="images/petal1.png" width="25" style="transform: rotate(130deg); animation: rotate 25s linear infinite, scaleX 7s ease-in-out infinite alternate-reverse;">
   <strong>Development Environments</strong>
-  <img src="images/petal2.png" width="25" style="transform: rotate(-140deg); animation: rotate 22s linear infinite reverse;">
+  <img src="images/petal2.png" width="25" style="transform: rotate(-140deg); animation: rotate 22s linear infinite reverse, scaleX 9s ease-in-out infinite;">
 </div>
 
 <p align="center">
@@ -150,9 +133,9 @@
 </p>
 
 <div align="center">
-  <img src="images/petal3.png" width="25" style="transform: rotate(160deg); animation: pulse 6s ease-in-out infinite;">
+  <img src="images/petal3.png" width="25" style="transform: rotate(160deg); animation: pulse 6s ease-in-out infinite, rotate 30s linear infinite;">
   <strong>DevOps & Tools</strong>
-  <img src="images/petal4.png" width="20" style="transform: rotate(-170deg); animation: pulse 7s ease-in-out infinite 0.5s;">
+  <img src="images/petal4.png" width="20" style="transform: rotate(-170deg); animation: pulse 7s ease-in-out infinite 0.5s, rotate 28s linear infinite reverse, scaleX 10s ease-in-out infinite alternate;">
 </div>
 
 <p align="center">
@@ -166,19 +149,19 @@
 
 <!-- Große dekorative Blütenblatt-Formation -->
 <div align="center" style="margin: 40px 0;">
-  <img src="images/petal1.png" width="40" style="transform: rotate(0deg); animation: rotate 30s linear infinite;">
-  <img src="images/petal2.png" width="45" style="transform: rotate(90deg); animation: rotate 25s linear infinite reverse;">
-  <img src="images/petal3.png" width="50" style="transform: rotate(180deg); animation: rotate 35s linear infinite;">
-  <img src="images/petal4.png" width="35" style="transform: rotate(270deg); animation: rotate 28s linear infinite reverse;">
-  <img src="images/petal1.png" width="40" style="transform: rotate(45deg); animation: rotate 32s linear infinite;">
+  <img src="images/petal1.png" width="40" style="transform: rotate(0deg); animation: rotate 30s linear infinite, scaleX 12s ease-in-out infinite alternate;">
+  <img src="images/petal2.png" width="45" style="transform: rotate(90deg); animation: rotate 25s linear infinite reverse, scaleX 10s ease-in-out infinite alternate-reverse;">
+  <img src="images/petal3.png" width="50" style="transform: rotate(180deg); animation: rotate 35s linear infinite, scaleX 8s ease-in-out infinite;">
+  <img src="images/petal4.png" width="35" style="transform: rotate(270deg); animation: rotate 28s linear infinite reverse, scaleX 9s ease-in-out infinite alternate;">
+  <img src="images/petal1.png" width="40" style="transform: rotate(45deg); animation: rotate 32s linear infinite, scaleX 11s ease-in-out infinite alternate-reverse;">
 </div>
 
 ## 📈 GitHub Stats
 
 <!-- Stats mit dekorativen Blütenblättern umrahmt -->
 <div align="center">
-  <img src="images/petal2.png" width="35" style="transform: rotate(30deg); animation: pulse 5s ease-in-out infinite;">
-  <img src="images/petal4.png" width="25" style="transform: rotate(-40deg); animation: pulse 6s ease-in-out infinite 0.7s;">
+  <img src="images/petal2.png" width="35" style="transform: rotate(30deg); animation: pulse 5s ease-in-out infinite, rotate 20s linear infinite;">
+  <img src="images/petal4.png" width="25" style="transform: rotate(-40deg); animation: pulse 6s ease-in-out infinite 0.7s, rotate 22s linear infinite reverse, scaleX 8s ease-in-out infinite alternate;">
 </div>
 
 <div align="center">
@@ -188,8 +171,8 @@
 </div>
 
 <div align="center">
-  <img src="images/petal1.png" width="30" style="transform: rotate(55deg); animation: rotate 18s linear infinite;">
-  <img src="images/petal3.png" width="30" style="transform: rotate(-65deg); animation: rotate 20s linear infinite reverse;">
+  <img src="images/petal1.png" width="30" style="transform: rotate(55deg); animation: rotate 18s linear infinite, scaleX 7s ease-in-out infinite alternate-reverse;">
+  <img src="images/petal3.png" width="30" style="transform: rotate(-65deg); animation: rotate 20s linear infinite reverse, scaleX 9s ease-in-out infinite;">
 </div>
 
 <div align="center">
@@ -200,24 +183,24 @@
 
 <!-- Abschluss mit schöner Blütenblatt-Formation -->
 <div align="center" style="margin: 50px 0;">
-  <img src="images/petal3.png" width="25" style="transform: rotate(0deg); animation: rotate 25s linear infinite;">
-  <img src="images/petal1.png" width="30" style="transform: rotate(72deg); animation: rotate 22s linear infinite reverse;">
-  <img src="images/petal4.png" width="25" style="transform: rotate(144deg); animation: rotate 28s linear infinite;">
-  <img src="images/petal2.png" width="30" style="transform: rotate(216deg); animation: rotate 30s linear infinite reverse;">
-  <img src="images/petal3.png" width="25" style="transform: rotate(288deg); animation: rotate 26s linear infinite;">
+  <img src="images/petal3.png" width="25" style="transform: rotate(0deg); animation: rotate 25s linear infinite, scaleX 10s ease-in-out infinite alternate;">
+  <img src="images/petal1.png" width="30" style="transform: rotate(72deg); animation: rotate 22s linear infinite reverse, scaleX 8s ease-in-out infinite alternate-reverse;">
+  <img src="images/petal4.png" width="25" style="transform: rotate(144deg); animation: rotate 28s linear infinite, scaleX 12s ease-in-out infinite;">
+  <img src="images/petal2.png" width="30" style="transform: rotate(216deg); animation: rotate 30s linear infinite reverse, scaleX 9s ease-in-out infinite alternate;">
+  <img src="images/petal3.png" width="25" style="transform: rotate(288deg); animation: rotate 26s linear infinite, scaleX 11s ease-in-out infinite alternate-reverse;">
 </div>
 
 ---
 
 <div align="center">
-  <img src="images/petal1.png" width="20" style="transform: rotate(25deg); animation: pulse 4s ease-in-out infinite;">
+  <img src="images/petal1.png" width="20" style="transform: rotate(25deg); animation: pulse 4s ease-in-out infinite, rotate 15s linear infinite;">
   ⭐️ From [Raisybear](https://github.com/Raisybear)
-  <img src="images/petal2.png" width="20" style="transform: rotate(-35deg); animation: pulse 4s ease-in-out infinite 0.5s;">
+  <img src="images/petal2.png" width="20" style="transform: rotate(-35deg); animation: pulse 4s ease-in-out infinite 0.5s, rotate 18s linear infinite reverse, scaleX 6s ease-in-out infinite alternate;">
 </div>
 
 <!-- Schwebende Blütenblätter am Ende -->
 <div align="center">
-  <img src="images/petal4.png" width="30" style="position: relative; top: -20px; left: -50px; transform: rotate(45deg); animation: float 8s ease-in-out infinite, rotate 15s linear infinite;">
-  <img src="images/petal3.png" width="35" style="position: relative; top: -10px; right: -30px; transform: rotate(-30deg); animation: float 6s ease-in-out infinite reverse, rotate 12s linear infinite reverse;">
-  <img src="images/petal1.png" width="30" style="position: relative; top: -15px; left: 40px; transform: rotate(60deg); animation: float 7s ease-in-out infinite, rotate 18s linear infinite;">
+  <img src="images/petal4.png" width="30" style="position: relative; top: -20px; left: -50px; transform: rotate(45deg); animation: float 8s ease-in-out infinite, rotate 15s linear infinite, scaleX 10s ease-in-out infinite alternate;">
+  <img src="images/petal3.png" width="35" style="position: relative; top: -10px; right: -30px; transform: rotate(-30deg); animation: float 6s ease-in-out infinite reverse, rotate 12s linear infinite reverse, scaleX 8s ease-in-out infinite alternate-reverse;">
+  <img src="images/petal1.png" width="30" style="position: relative; top: -15px; left: 40px; transform: rotate(60deg); animation: float 7s ease-in-out infinite, rotate 18s linear infinite, scaleX 9s ease-in-out infinite;">
 </div>
