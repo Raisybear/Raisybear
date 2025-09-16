@@ -5,6 +5,8 @@
 
 I'm a passionate developer specializing in C#/.NET and web technologies, scripting is also very fun. Welcome to my GitHub profile!
 
+![petals.gif](petals.gif)
+
 ## 🌐 My Website
 [![Personal Website](https://img.shields.io/badge/✨_My_Personal_Website-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://raisybear.net/)
 
@@ -28,6 +30,7 @@ I'm a passionate developer specializing in C#/.NET and web technologies, scripti
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -49,6 +52,7 @@ I'm a passionate developer specializing in C#/.NET and web technologies, scripti
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
