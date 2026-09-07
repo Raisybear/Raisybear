@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Raisybear</title>
+  <desc id="desc">Animated cherry blossoms falling over a dark header</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b12" />
+      <stop offset="0.5" stop-color="#11101a" />
+      <stop offset="1" stop-color="#190d17" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="58%">
+      <stop offset="0" stop-color="#ff7aa2" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#ff7aa2" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff7aa2" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#ff7aa2" />
+      <stop offset="1" stop-color="#ff7aa2" stop-opacity="0" />
+    </linearGradient>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path id="petal" d="M0 0 C-10-18-28-12-26 4 C-23 18-7 22 0 0 Z" />
+  </defs>
+
+  <rect width="1200" height="340" rx="18" fill="url(#background)" />
+  <rect width="1200" height="340" rx="18" fill="url(#glow)" />
+
+  <g opacity="0.17" stroke="#ff7aa2" fill="none">
+    <path d="M0 72 C160 22 270 120 430 56 S735 38 890 84 S1080 88 1200 42" />
+    <path d="M0 282 C180 238 300 322 474 270 S770 244 928 294 S1090 300 1200 262" />
+  </g>
+
+  <g fill="#ff9fba">
+    <g><use href="#petal" opacity="0.82" /><animateTransform attributeName="transform" type="translate" values="90 -35;180 380" dur="8.8s" repeatCount="indefinite" /></g>
+    <g><use href="#petal" transform="scale(.65)" opacity="0.62" /><animateTransform attributeName="transform" type="translate" values="220 -70;110 370" dur="11.4s" begin="-4s" repeatCount="indefinite" /></g>
+    <g><use href="#petal" transform="scale(.8)" /><animateTransform attributeName="transform" type="translate" values="350 -45;470 390" dur="9.6s" begin="-7s" repeatCount="indefinite" /></g>
+    <g><use href="#petal" transform="scale(.55)" opacity="0.7" /><animateTransform attributeName="transform" type="translate" values="510 -80;430 370" dur="12.2s" begin="-2s" repeatCount="indefinite" /></g>
+    <g><use href="#petal" transform="scale(.72)" /><animateTransform attributeName="transform" type="translate" values="660 -40;790 380" dur="10.1s" begin="-8s" repeatCount="indefinite" /></g>
+    <g><use href="#petal" transform="scale(.48)" opacity="0.58" /><animateTransform attributeName="transform" type="translate" values="790 -90;700 365" dur="13.3s" begin="-5s" repeatCount="indefinite" /></g>
+    <g><use href="#petal" transform="scale(.88)" opacity="0.9" /><animateTransform attributeName="transform" type="translate" values="920 -55;1040 385" dur="9.2s" begin="-3s" repeatCount="indefinite" /></g>
+    <g><use href="#petal" transform="scale(.6)" opacity="0.7" /><animateTransform attributeName="transform" type="translate" values="1100 -65;980 375" dur="11.8s" begin="-9s" repeatCount="indefinite" /></g>
+  </g>
+
+  <g fill="#ff7aa2" opacity="0.8">
+    <circle cx="145" cy="112" r="3"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite" /></circle>
+    <circle cx="1050" cy="224" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="4.2s" repeatCount="indefinite" /></circle>
+    <circle cx="942" cy="74" r="2"><animate attributeName="opacity" values=".2;.9;.2" dur="3.7s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <text x="600" y="157" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="2">Raisybear</text>
+  <rect x="420" y="180" width="360" height="2" rx="1" fill="url(#line)" filter="url(#soft-glow)" />
+  <text x="600" y="223" text-anchor="middle" fill="#ffb2c8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="3">SOFTWARE DEVELOPER</text>
+  <text x="600" y="260" text-anchor="middle" fill="#aeb5c0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">AUTOMATION  |  CLOUD  |  INFRASTRUCTURE</text>
+</svg>
